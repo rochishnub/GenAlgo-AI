@@ -2,7 +2,7 @@
 #### Using Genetic Algorithms to solve the 8-Queens Puzzle and the Traveling Salesman Problem. The algorithm is written in Python 3.8.6. There are two sets of algorithms for each problem, one simple and one optimised.
 
 ### Files:
-1. Gen-Algo-master is the main program to run both 8-queens and tsp algos
+1. Gen-Algo-master is the main program to run both 8-queens and tsp optimised algos
 2. 8queens_ws.ipynb is the 8-queens workspace
 3. tsp_ws.ipynb is the TSP workspace
 
