@@ -1,11 +1,3 @@
-"""
-CS F407: AI
-Programming Assignment 1: Genetic Algorithms
-
-Submitted By: Rochishnu Banerjee
-2018A7PS0140G
-
-"""
 
 import numpy as np
 import pandas as pd
