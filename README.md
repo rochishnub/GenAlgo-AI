@@ -30,5 +30,5 @@ Fitness: The number of pairs of non-attacking queens + 1.
 ### Traveling Salesman Problem
 Aim: Find the shortest hamiltonian cycle in a graph.  
 State: A string sequence of cities visited excluding first city.  
-Fitness: Total path cost of a cycle.  
+Fitness: 1 / Total path cost of a cycle.  
 ![map](https://github.com/rochishnub/GenAlgo-AI/blob/main/image.png)
