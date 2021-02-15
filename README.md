@@ -18,3 +18,13 @@ The genetic algorithm consists of the following steps:
 5. **Survival:** Choose which children form the population for the next generation.
 6. Repeat steps 2-6 until termination and return chromosome with best fitness.
 
+### 8-Queens Puzzle
+Aim: Find a configuration to place 8 queens on a chessboard such that no queens attack each other.
+State: Assume initially all queens are in distinct columns. A state is the string representing the row containing a queen.
+Fitness: The number of pairs of non-attacking queens + 1
+
+### Traveling Salesman Problem
+Aim: Find the shortest hamiltonian cycle in a graph
+State: A string sequence of cities visited excluding first city.
+Fitness: Path cost
+!E:\3-2\AI\Gen_algo\Material\TSP_map.png
