@@ -1,6 +1,10 @@
 # GenAlgo-AI
-Using Genetic Algorithms to solve the 8-Queens Puzzle and the Traveling Salesman Problem. The algorithm is written in Python 3.8.6.
-There are two sets of algorithms for each problem, one simple and one optimised.
+##### Using Genetic Algorithms to solve the 8-Queens Puzzle and the Traveling Salesman Problem. The algorithm is written in Python 3.8.6. There are two sets of algorithms for each problem, one simple and one optimised.
+
+### Files:
+1. Gen-Algo-master is the main program to run both 8-queens and tsp algos
+2. 8queens_ws.ipynb is the 8-queens workspace
+3. tsp_ws.ipynb is the TSP workspace
 
 ### Genetic Algorithms
 Genetic Algorithms are search-based optimization techniques that draw inspiration from the biological principle of Natural selection.
@@ -27,4 +31,4 @@ Fitness: The number of pairs of non-attacking queens + 1.
 Aim: Find the shortest hamiltonian cycle in a graph.  
 State: A string sequence of cities visited excluding first city.  
 Fitness: Total path cost of a cycle.  
-![map](https://github.com/rochishnub/GenAlgo-AI/blob/main/TSP_map.png)
+![map](https://github.com/rochishnub/GenAlgo-AI/blob/main/image.png)
